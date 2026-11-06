@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,55:1D4ED8,100:06B6D4&text=Ol%C3%A1,%20sou%20%5BO%20TEU%20NOME%5D&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=%5BA%20TUA%20%C3%81REA%5D%20%C2%B7%20%5BO%20TEU%20FOCO%5D&descAlignY=59&descSize=16" width="100%" alt="Banner de perfil com o nome e a área profissional" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,55:1D4ED8,100:06B6D4&text=Francisco%20Miguel%20Magri&fontColor=F8FAFC&fontSize=36&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Programa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20Web&descAlignY=59&descSize=15" width="100%" alt="Banner de perfil de Francisco Miguel Magri" />
 
-  <h3>[FUNÇÃO OU ESPECIALIDADE] · [CIDADE, PAÍS OU REMOTO]</h3>
-  <p>Transformo <strong>[desafio ou necessidade]</strong> em <strong>[resultado ou valor que entregas]</strong>.</p>
+  <h3>Estudante de Desenvolvimento de Sistemas</h3>
+  <p>Focado em programação, desenvolvimento web e aprendizagem contínua na área de tecnologia.</p>
 
   <a href="https://github.com/magrifrancisco">
     <img src="https://img.shields.io/badge/GitHub-magrifrancisco-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/TEU-UTILIZADOR/">
-    <img src="https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -16,28 +13,37 @@
 
 ## Sobre mim
 
-Sou **Francisco Miguel Magri**, [descrição concisa da tua experiência ou percurso]. Gosto de trabalhar em **[áreas de interesse]** e de criar soluções que **[impacto que procuras gerar]**.
+Sou **Francisco Miguel Magri**, estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia. Procuro evoluir constantemente na área de programação, transformar conhecimento em projectos práticos e construir uma base sólida para o meu crescimento profissional.
 
-- **Atualmente:** [função, projecto ou objectivo actual]
-- **Interesses:** [áreas, temas ou problemas que te motivam]
-- **A aprender:** [competência ou tecnologia que estás a desenvolver]
+Tenho interesse especial por **desenvolvimento web**, lógica de programação e criação de soluções digitais. Cada projecto é uma oportunidade para aprender, experimentar e melhorar.
 
-## Competências
+## Objectivos
 
-| Área | Ferramentas e competências |
-|---|---|
-| Linguagens | `[Linguagem 1]` · `[Linguagem 2]` · `[Linguagem 3]` |
-| Frameworks | `[Framework 1]` · `[Framework 2]` |
-| Ferramentas | `[Ferramenta 1]` · `[Ferramenta 2]` · `[Ferramenta 3]` |
-| Métodos | `[Método, especialidade ou competência transversal]` |
+- Evoluir continuamente na programação e no desenvolvimento de sistemas.
+- Aprofundar conhecimentos em desenvolvimento web e novas tecnologias.
+- Criar projectos práticos que demonstrem a minha evolução.
+- Desenvolver boas práticas de código, organização e resolução de problemas.
+- Preparar-me para novas oportunidades académicas e profissionais na área de tecnologia.
+
+## Tecnologias e conhecimentos
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" alt="Tecnologias: HTML, CSS, JavaScript, Python, Java, Git, GitHub e VS Code" />
+</div>
+
+## O que estou a estudar
+
+- Lógica de programação e fundamentos de desenvolvimento de sistemas.
+- HTML e CSS para criação de páginas web.
+- JavaScript para interactividade e comportamento no navegador.
+- Python e Java para prática de programação.
+- Git e GitHub para versionamento e organização de projectos.
 
 ## Projectos em destaque
 
-| Projecto | O que faz | Tecnologias |
-|---|---|---|
-| [Nome do projecto](LINK_DO_PROJECTO_1) | [Problema que resolve ou resultado alcançado] | `[Tecnologia 1]`, `[Tecnologia 2]` |
-| [Nome do projecto](LINK_DO_PROJECTO_2) | [Problema que resolve ou resultado alcançado] | `[Tecnologia 1]`, `[Tecnologia 2]` |
-| [Nome do projecto](LINK_DO_PROJECTO_3) | [Problema que resolve ou resultado alcançado] | `[Tecnologia 1]`, `[Tecnologia 2]` |
+- **Projectos de aprendizagem:** exercícios e actividades desenvolvidos durante a formação em Desenvolvimento de Sistemas.
+- **Desenvolvimento web:** páginas e experiências práticas com HTML, CSS e JavaScript.
+- **Programação:** projectos e desafios para reforçar lógica, estrutura de código e resolução de problemas.
 
 ## Actividade no GitHub
 
@@ -46,28 +52,10 @@ Sou **Francisco Miguel Magri**, [descrição concisa da tua experiência ou perc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrifrancisco&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais utilizadas" />
 </div>
 
-## Vamos conversar
+## Em evolução constante
 
-Estou disponível para **[colaborações, oportunidades ou conversas sobre determinado tema]**.
-
-- **LinkedIn:** [linkedin.com/in/TEU-UTILIZADOR](https://www.linkedin.com/in/TEU-UTILIZADOR/)
-- **Email:** [teu.email@exemplo.pt](mailto:teu.email@exemplo.pt)
-- **Portefólio:** [o-teu-site.pt](https://o-teu-site.pt)
-
----
+Estou sempre a aprender, praticar e procurar novos desafios. Se partilhamos interesse por programação, desenvolvimento web ou tecnologia, será um prazer trocar ideias.
 
 <div align="center">
-  <sub>Obrigado pela visita. Se algum projecto te interessar, vê o repositório e diz-me o que pensas.</sub>
+  <sub>Obrigado pela visita ao meu perfil.</sub>
 </div>
-
-<details>
-  <summary><strong>Notas para personalizar este modelo</strong></summary>
-  <br />
-
-  Substitui os campos entre parênteses rectos, actualiza os links de contacto e escolhe apenas competências e projectos que representem realmente o teu trabalho. Remove as secções que não te sejam úteis.
-
-  Para mostrar este conteúdo directamente no perfil GitHub, cria um repositório **público** com o mesmo nome do teu utilizador (`magrifrancisco`) e coloca este README na raiz. Este repositório de trabalho mantém-se privado até decidires publicá-lo.
-</details>
-
-
-<!-- Profile README refresh: 2026-11-06 -->
