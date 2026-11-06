@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Francisco+Miguel+Magri;Estudante+de+Desenvolvimento+de+Sistemas;Foco%2C+disciplina+e+evolu%C3%A7%C3%A3o+constante;Sempre+avante%2C+em+campo+e+no+c%C3%B3digo" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Francisco+Miguel+Magri;Estudante+de+Desenvolvimento+de+Sistemas;Foco%2C+disciplina+e+evolu%C3%A7%C3%A3o+constante;Sempre+avante%2C+em+campo+e+no+c%C3%B3digo" alt="Apresentação animada" />
 </div>
 
 <p align="center">
