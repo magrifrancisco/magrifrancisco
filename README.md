@@ -48,8 +48,9 @@ Tenho interesse especial por **desenvolvimento web**, lógica de programação e
 ## Actividade no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magrifrancisco&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrifrancisco&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais utilizadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magrifrancisco&theme=github_dark" alt="Resumo do perfil e actividade no GitHub" width="95%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magrifrancisco&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </div>
 
 ## Em evolução constante
