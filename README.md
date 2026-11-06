@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:242424,100:FFFFFF&text=Francisco%20Miguel%20Magri&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=SANTOS%20FC%20%7C%20Desenvolvimento%20de%20Sistemas%20%7C%20Programa%C3%A7%C3%A3o&descAlignY=60&descSize=15" width="100%" alt="Banner preto e branco de Francisco Miguel Magri" />
+  <img src="https://raw.githubusercontent.com/magrifrancisco/magrifrancisco/main/assets/santos-header.svg" width="100%" alt="Header preto e branco com o escudo do Santos FC ao fundo" />
 
   <h2>⚫⚪ Francisco Miguel Magri</h2>
   <p><strong>Estudante de Desenvolvimento de Sistemas</strong></p>
