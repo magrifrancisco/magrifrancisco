@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou **[nome]**, [descrição concisa da tua experiência ou percurso]. Gosto de trabalhar em **[áreas de interesse]** e de criar soluções que **[impacto que procuras gerar]**.
+Sou **Francisco Miguel Magri**, [descrição concisa da tua experiência ou percurso]. Gosto de trabalhar em **[áreas de interesse]** e de criar soluções que **[impacto que procuras gerar]**.
 
 - **Atualmente:** [função, projecto ou objectivo actual]
 - **Interesses:** [áreas, temas ou problemas que te motivam]
