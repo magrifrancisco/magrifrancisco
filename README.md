@@ -68,3 +68,6 @@ Estou disponível para **[colaborações, oportunidades ou conversas sobre deter
 
   Para mostrar este conteúdo directamente no perfil GitHub, cria um repositório **público** com o mesmo nome do teu utilizador (`magrifrancisco`) e coloca este README na raiz. Este repositório de trabalho mantém-se privado até decidires publicá-lo.
 </details>
+
+
+<!-- Profile README refresh: 2026-11-06 -->
