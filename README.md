@@ -46,18 +46,11 @@ O meu objectivo é evoluir na programação, aprofundar conhecimentos em desenvo
 ## Projectos em destaque
 
 <div align="center">
-  <a href="https://github.com/magrifrancisco/SMARTCOFFEE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magrifrancisco&repo=SMARTCOFFEE&theme=transparent&hide_border=true" alt="Projecto SMARTCOFFEE" />
-  </a>
-  <a href="https://github.com/magrifrancisco/projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magrifrancisco&repo=projeto&theme=transparent&hide_border=true" alt="Projecto projeto" />
-  </a>
-  <a href="https://github.com/magrifrancisco/1--termo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magrifrancisco&repo=1--termo&theme=transparent&hide_border=true" alt="Projecto 1 termo" />
-  </a>
-  <a href="https://github.com/magrifrancisco/2-TERMO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magrifrancisco&repo=2-TERMO&theme=transparent&hide_border=true" alt="Projecto 2 termo" />
-  </a>
+  <a href="https://github.com/magrifrancisco/SMARTCOFFEE"><img src="https://img.shields.io/badge/SMARTCOFFEE-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SMARTCOFFEE" /></a>
+  <a href="https://github.com/magrifrancisco/projeto"><img src="https://img.shields.io/badge/PROJETO-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="Projecto" /></a>
+  <a href="https://github.com/magrifrancisco/1--termo"><img src="https://img.shields.io/badge/1%C2%BA%20TERMO-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primeiro termo" /></a>
+  <a href="https://github.com/magrifrancisco/2-TERMO"><img src="https://img.shields.io/badge/2%C2%BA%20TERMO-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Segundo termo" /></a>
+  <a href="https://github.com/magrifrancisco/sistemas_operacionais"><img src="https://img.shields.io/badge/SISTEMAS%20OPERACIONAIS-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Sistemas Operacionais" /></a>
 </div>
 
 ## Objectivos
