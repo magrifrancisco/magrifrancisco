@@ -21,6 +21,10 @@
   Construindo projectos com foco em programação, desenvolvimento web e aprendizagem contínua.
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/magrifrancisco/magrifrancisco/main/assets/santos-divider.svg" width="100%" alt="Banner Santos FC O Peixe Sempre Avante" />
+</div>
+
 ---
 
 ## ⚫⚪ Sobre mim
@@ -85,6 +89,5 @@ Se também gostas de programação, desenvolvimento web, tecnologia e de acompan
 <br />
 
 <div align="center">
-  <strong>⚫⚪ Sempre avante.</strong><br />
-  <sub>Obrigado pela visita.</sub>
+  <img src="https://raw.githubusercontent.com/magrifrancisco/magrifrancisco/main/assets/santos-footer.svg" width="100%" alt="Banner de rodapé do Santos FC com o escudo ao fundo" />
 </div>
